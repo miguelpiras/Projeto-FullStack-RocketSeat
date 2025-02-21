@@ -1,18 +1,14 @@
-# HTML
+HTML
+-Hipertext -Markup -Tags -atributos -Language
 
-- Hypertext
-- Maarkup
-    - tags
-    - atributes
-- Language
+CSS
+-Cascating -Style -Sheet
 
-# CSS
+JavaScript
+-Linguagem Interpretada pelo Browser -Multiparadigmas
 
-- Cascading
-- Style
-- Sheet
+Cenário 1
+-Cadastrar os usuários da aplicação; -Gerar link de compartilhamento.
 
-#JavaScript
-
--Linguagem Interpretada pelo Browser
--Multiparadigmas
+Cenário 2
+-Caso o usuário já tenha cadastro apenas gerar a tela de compartilhamento e mostrar caso alguém já tenha se cadastrado.
